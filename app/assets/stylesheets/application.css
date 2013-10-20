@@ -10,11 +10,6 @@
  *
  *= require_self
  *= require_tree .
- *= require animate
- *= require blog
- *= require external-pages
- *= require reset
- *= require signin
- *= require signup
  *= require theme
+ *= require animate
  */
